@@ -94,6 +94,11 @@ hr{
     padding:30px;
     text-decoration: none; 
 }
+
+.footer-link:hover{
+    color: #222222;
+}
+
 .icon-link{
     text-decoration: none;
 }
