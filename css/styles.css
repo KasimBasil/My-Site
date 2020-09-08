@@ -52,8 +52,7 @@ body{
     border-radius: 100px;
  }
   
-.swimming-photo{
-    border-radius: 90px;
+.mobile-photo{
     width: 25%;
     float: right;
     margin-left: 30px;
